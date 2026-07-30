@@ -2,11 +2,14 @@ name: Update Data AI Jobs
 
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "17 */3 * * *"
       timezone: "America/Chicago"
+
   push:
-    branches: ["main"]
+    branches:
+      - main
     paths-ignore:
       - "data/**"
       - "dashboard/data/**"
@@ -24,6 +27,8 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
@@ -43,16 +48,19 @@ jobs:
         run: python -m playwright install --with-deps chromium
 
       - name: Record previous job IDs
-        id: before
         shell: bash
         run: |
           python - <<'PY' > /tmp/jobs-before.txt
           import json
           from pathlib import Path
+
           path = Path("data/job_state.json")
+
           if path.exists():
               try:
-                  data = json.loads(path.read_text(encoding="utf-8"))
+                  data = json.loads(
+                      path.read_text(encoding="utf-8")
+                  )
                   print("\n".join(sorted(data)))
               except Exception:
                   pass
@@ -67,36 +75,39 @@ jobs:
           python - <<'PY' > /tmp/jobs-after.txt
           import json
           from pathlib import Path
+
           path = Path("data/job_state.json")
+
           if path.exists():
-              data = json.loads(path.read_text(encoding="utf-8"))
-              print("\n".join(sorted(data)))
+              try:
+                  data = json.loads(
+                      path.read_text(encoding="utf-8")
+                  )
+                  print("\n".join(sorted(data)))
+              except Exception:
+                  pass
           PY
 
-      
-            - name: Commit job changes only when the active set changes
+      - name: Commit job changes when the active set changes
         shell: bash
         run: |
           if cmp -s /tmp/jobs-before.txt /tmp/jobs-after.txt; then
-            echo "The active job set did not change. Skipping the data commit."
+            echo "The active job set did not change."
           else
             git config user.name "data-ai-job-bot"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config user.email \
+              "41898282+github-actions[bot]@users.noreply.github.com"
 
             git add data dashboard/data output
 
             if git diff --cached --quiet; then
               echo "No tracked files changed."
-              exit 0
+            else
+              git commit -m "Update Data and AI jobs [skip ci]"
+
+              git pull --rebase origin main
+              git push origin HEAD:main
             fi
-
-            git commit -m "Update Data and AI jobs [skip ci]"
-
-            # Download changes that reached main while this workflow was running.
-            git pull --rebase origin main
-
-            # Push the refreshed job data on top of the latest main branch.
-            git push origin HEAD:main
           fi
 
       - name: Configure GitHub Pages
@@ -110,9 +121,11 @@ jobs:
   deploy:
     needs: update
     runs-on: ubuntu-latest
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy dashboard
         id: deployment
