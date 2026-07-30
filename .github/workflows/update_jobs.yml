@@ -73,7 +73,8 @@ jobs:
               print("\n".join(sorted(data)))
           PY
 
-      - name: Commit job changes only when the active set changes
+      
+            - name: Commit job changes only when the active set changes
         shell: bash
         run: |
           if cmp -s /tmp/jobs-before.txt /tmp/jobs-after.txt; then
@@ -81,9 +82,21 @@ jobs:
           else
             git config user.name "data-ai-job-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
             git add data dashboard/data output
-            git commit -m "Update Data and AI jobs [skip ci]" || true
-            git push
+
+            if git diff --cached --quiet; then
+              echo "No tracked files changed."
+              exit 0
+            fi
+
+            git commit -m "Update Data and AI jobs [skip ci]"
+
+            # Download changes that reached main while this workflow was running.
+            git pull --rebase origin main
+
+            # Push the refreshed job data on top of the latest main branch.
+            git push origin HEAD:main
           fi
 
       - name: Configure GitHub Pages
