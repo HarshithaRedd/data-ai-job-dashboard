@@ -3,7 +3,7 @@ name: Update Data AI Jobs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 */3 * * *"
       timezone: "America/Chicago"
   push:
     branches: ["main"]
