@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Automatically updated Data, AI, and analyst job dashboard across 54 companies.">
+  <title>Data, AI & Analyst Job Radar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__glow hero__glow--one"></div>
+    <div class="hero__glow hero__glow--two"></div>
+    <div class="container hero__content">
+      <div>
+        <p class="eyebrow">LIVE OPPORTUNITY TRACKER</p>
+        <h1>Data, AI & Analyst Job Radar</h1>
+        <p class="hero__copy">
+          Data, AI, and every analyst-role posting found on the 54 official company career sites.
+        </p>
+      </div>
+      <div class="update-card" aria-live="polite">
+        <span class="pulse-dot" aria-hidden="true"></span>
+        <div>
+          <span class="update-card__label">Last updated</span>
+          <strong id="last-updated">Loading…</strong>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container main-content">
+    <section class="stats-grid" aria-label="Dashboard summary">
+      <article class="stat-card">
+        <span>Total active jobs</span>
+        <strong id="total-jobs">—</strong>
+      </article>
+      <article class="stat-card">
+        <span>New this run</span>
+        <strong id="new-jobs">—</strong>
+      </article>
+      <article class="stat-card">
+        <span>Companies with jobs</span>
+        <strong id="companies-with-jobs">—</strong>
+      </article>
+      <article class="stat-card">
+        <span>Companies checked</span>
+        <strong id="companies-checked">—</strong>
+      </article>
+    </section>
+
+    <section class="panel filters-panel" aria-label="Job filters">
+      <div class="search-wrap">
+        <label for="search-input">Search title, company, location, or skill</label>
+        <input id="search-input" type="search" placeholder="Try: Data Engineer, Databricks, Remote…" autocomplete="off">
+      </div>
+      <div class="filter-grid">
+        <label>
+          Company
+          <select id="company-filter">
+            <option value="">All companies</option>
+          </select>
+        </label>
+        <label>
+          Work mode
+          <select id="mode-filter">
+            <option value="">All work modes</option>
+            <option value="Remote">Remote</option>
+            <option value="Hybrid">Hybrid</option>
+            <option value="On-site">On-site</option>
+            <option value="See posting">See posting</option>
+          </select>
+        </label>
+        <label>
+          Sort by
+          <select id="sort-filter">
+            <option value="newest">Newest first</option>
+            <option value="company">Company A–Z</option>
+            <option value="title">Job title A–Z</option>
+          </select>
+        </label>
+        <label class="check-label">
+          <input id="new-only-filter" type="checkbox">
+          <span>Show only new jobs</span>
+        </label>
+      </div>
+    </section>
+
+    <section class="results-header">
+      <div>
+        <p class="eyebrow eyebrow--dark">CURRENT RESULTS</p>
+        <h2><span id="result-count">0</span> matching jobs</h2>
+      </div>
+      <button id="health-toggle" class="secondary-button" type="button" aria-expanded="false" aria-controls="health-panel">
+        View source health
+      </button>
+    </section>
+
+    <section id="health-panel" class="panel health-panel" hidden>
+      <div class="health-panel__header">
+        <div>
+          <h2>Source health</h2>
+          <p>
+            A zero result means the source was checked but no verified Data/AI detail pages were found. An error means the site blocked, timed out, or changed.
+          </p>
+        </div>
+        <div class="health-summary">
+          <span class="status-pill status-pill--ok"><b id="health-ok">0</b> active</span>
+          <span class="status-pill status-pill--zero"><b id="health-zero">0</b> zero</span>
+          <span class="status-pill status-pill--error"><b id="health-error">0</b> errors</span>
+        </div>
+      </div>
+      <div id="health-list" class="health-list"></div>
+    </section>
+
+    <section class="panel table-panel" aria-label="Job listings">
+      <div id="message" class="message">Loading verified jobs…</div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Role</th>
+              <th>Company</th>
+              <th>Location</th>
+              <th>Work mode</th>
+              <th>Posted</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody id="jobs-table-body"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <p>Only public job-detail pages are shown. Always confirm the role is still active before applying.</p>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

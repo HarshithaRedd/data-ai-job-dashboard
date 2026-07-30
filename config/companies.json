@@ -1,0 +1,421 @@
+[
+  {
+    "name": "TEKsystems",
+    "collector": "auto",
+    "careers_url": "https://careers.teksystems.com/us/en/search-results",
+    "search_urls": [
+      "https://careers.teksystems.com/us/en/search-results/?keywords=data",
+      "https://careers.teksystems.com/us/en/c/businesssystems-analyst-jobs",
+      "https://careers.teksystems.com/us/en/c/developer-jobs"
+    ],
+    "detail_url_regex": "/us/en/job/JP-\\d+/",
+    "enabled": true
+  },
+  {
+    "name": "Insight Global",
+    "collector": "auto",
+    "careers_url": "https://jobs.insightglobal.com/find_a_job/?miles=False&remote=false&srch=data",
+    "search_urls": [
+      "https://jobs.insightglobal.com/find_a_job/?miles=False&remote=false&srch=data",
+      "https://jobs.insightglobal.com/find_a_job/?miles=False&remote=false&srch=machine+learning",
+      "https://jobs.insightglobal.com/find_a_job/?miles=False&remote=false&srch=artificial+intelligence"
+    ],
+    "detail_url_regex": "/(?:jobs/)?find_a_job/.*/job-\\d+/?$",
+    "enabled": true
+  },
+  {
+    "name": "Apex Systems",
+    "collector": "auto",
+    "careers_url": "https://www.apexsystems.com/search-results-usa",
+    "detail_url_regex": "/job/\\d+_usa/",
+    "enabled": true
+  },
+  {
+    "name": "Motion Recruitment",
+    "collector": "auto",
+    "careers_url": "https://motionrecruitment.com/tech-jobs/data-engineering",
+    "search_urls": [
+      "https://motionrecruitment.com/tech-jobs/data-engineering",
+      "https://motionrecruitment.com/tech-jobs/data-science",
+      "https://motionrecruitment.com/tech-jobs/machine-learning"
+    ],
+    "detail_url_regex": "/tech-jobs/.+/\\d+/?$",
+    "enabled": true
+  },
+  {
+    "name": "Kforce",
+    "collector": "auto",
+    "careers_url": "https://www.kforce.com/find-work/search-jobs/",
+    "search_urls": [
+      "https://www.kforce.com/find-work/search-jobs/",
+      "https://myhiring.kforce.com/careersection/ex/jobsearch.ftl?lang=en"
+    ],
+    "allowed_domains": [
+      "kforce.com",
+      "myhiring.kforce.com"
+    ],
+    "detail_url_regex": "(?:/jobs/[^/]+/|careersection/.+jobdetail|[?&]job=\\d+)",
+    "enabled": true
+  },
+  {
+    "name": "Randstad USA",
+    "collector": "auto",
+    "careers_url": "https://www.randstadusa.com/jobs/",
+    "enabled": true
+  },
+  {
+    "name": "Robert Half",
+    "collector": "auto",
+    "careers_url": "https://www.roberthalf.com/us/en/find-jobs",
+    "enabled": true
+  },
+  {
+    "name": "Michael Page",
+    "collector": "auto",
+    "careers_url": "https://www.michaelpage.com/job-search",
+    "enabled": true
+  },
+  {
+    "name": "Adecco USA",
+    "collector": "auto",
+    "careers_url": "https://www.adecco.com/en-us/job-seekers",
+    "enabled": true
+  },
+  {
+    "name": "ManpowerGroup",
+    "collector": "auto",
+    "careers_url": "https://www.manpower.com/en/search",
+    "enabled": true
+  },
+  {
+    "name": "Collabera",
+    "collector": "auto",
+    "careers_url": "https://collabera.com/job-search/",
+    "detail_url_regex": "/job-description/\\?post=\\d+",
+    "enabled": true
+  },
+  {
+    "name": "Compunnel",
+    "collector": "auto",
+    "careers_url": "https://www.compunnel.com/jobs/",
+    "enabled": true
+  },
+  {
+    "name": "Diverse Lynx",
+    "collector": "auto",
+    "careers_url": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g&compid=0",
+    "allowed_domains": [
+      "www2.jobdiva.com",
+      "jobdiva.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "eTeam",
+    "collector": "auto",
+    "careers_url": "https://my.eteaminc.com/careers/",
+    "enabled": true
+  },
+  {
+    "name": "Intelliswift",
+    "collector": "auto",
+    "careers_url": "https://www.intelliswift.com/careers/current-openings",
+    "enabled": true
+  },
+  {
+    "name": "Lancesoft",
+    "collector": "auto",
+    "careers_url": "https://careers.lancesoft.com/index.smpl?arg=jb_search",
+    "enabled": true
+  },
+  {
+    "name": "IDC Technologies",
+    "collector": "auto",
+    "careers_url": "https://idctechnologies.com/job-seeker",
+    "enabled": true
+  },
+  {
+    "name": "US Tech Solutions",
+    "collector": "smartrecruiters",
+    "company_identifier": "USTechSolutions2",
+    "careers_url": "https://careers.smartrecruiters.com/USTechSolutions2",
+    "allowed_domains": [
+      "careers.smartrecruiters.com",
+      "jobs.smartrecruiters.com",
+      "api.smartrecruiters.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Siri InfoSolutions",
+    "collector": "auto",
+    "careers_url": "https://www.siriinfosolutions.com/careers.html",
+    "enabled": true
+  },
+  {
+    "name": "Pyramid Consulting",
+    "collector": "auto",
+    "careers_url": "https://www.pyramidcg.com/all-jobs",
+    "enabled": true,
+    "allowed_domains": [
+      "pyramidcg.com",
+      "www.pyramidcg.com"
+    ]
+  },
+  {
+    "name": "Artech",
+    "collector": "auto",
+    "careers_url": "https://www.artech.com/careers/",
+    "enabled": true
+  },
+  {
+    "name": "Mindlance",
+    "collector": "auto",
+    "careers_url": "https://mindlance.com/careers/",
+    "enabled": true
+  },
+  {
+    "name": "Net2Source",
+    "collector": "auto",
+    "careers_url": "https://net2source.jobs.net/",
+    "allowed_domains": [
+      "net2source.jobs.net",
+      "jobs.net"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Rose International",
+    "collector": "auto",
+    "careers_url": "https://www.roseint.com/hotjobs/JobsSearch.aspx",
+    "enabled": true
+  },
+  {
+    "name": "BCforward",
+    "collector": "auto",
+    "careers_url": "https://www.bcforward.com/find-a-job/",
+    "enabled": true
+  },
+  {
+    "name": "Softworld",
+    "collector": "auto",
+    "careers_url": "https://jobs.softworldinc.com/",
+    "allowed_domains": [
+      "jobs.softworldinc.com",
+      "softworldinc.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "VDart",
+    "collector": "auto",
+    "careers_url": "https://www.vdart.com/careers/current-opportunities/",
+    "enabled": true
+  },
+  {
+    "name": "Nityo Infotech",
+    "collector": "auto",
+    "careers_url": "https://careers.nityo.com/",
+    "enabled": true
+  },
+  {
+    "name": "Cynet Systems",
+    "collector": "auto",
+    "careers_url": "https://www.cynetsystems.com/find-work/",
+    "enabled": true
+  },
+  {
+    "name": "InfiCare Technologies",
+    "collector": "auto",
+    "careers_url": "https://inficaretechnologies.jobs.net/",
+    "allowed_domains": [
+      "inficaretechnologies.jobs.net",
+      "jobs.net"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "CompuGain",
+    "collector": "smartrecruiters",
+    "company_identifier": "Compugain1",
+    "careers_url": "https://careers.smartrecruiters.com/Compugain1",
+    "allowed_domains": [
+      "careers.smartrecruiters.com",
+      "jobs.smartrecruiters.com",
+      "api.smartrecruiters.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Damco Solutions",
+    "collector": "auto",
+    "careers_url": "https://www.damcogroup.com/careers",
+    "enabled": true
+  },
+  {
+    "name": "HCLTech",
+    "collector": "auto",
+    "careers_url": "https://careers.hcltech.com/",
+    "enabled": true
+  },
+  {
+    "name": "Hexaware",
+    "collector": "auto",
+    "careers_url": "https://hexaware.com/careers/",
+    "enabled": true
+  },
+  {
+    "name": "Cognizant",
+    "collector": "auto",
+    "careers_url": "https://careers.cognizant.com/us-en/jobs/",
+    "enabled": true
+  },
+  {
+    "name": "Infosys",
+    "collector": "auto",
+    "careers_url": "https://digitalcareers.infosys.com/global-careers",
+    "allowed_domains": [
+      "digitalcareers.infosys.com",
+      "infosys.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Wipro",
+    "collector": "auto",
+    "careers_url": "https://careers.wipro.com/",
+    "enabled": true
+  },
+  {
+    "name": "TCS",
+    "collector": "auto",
+    "careers_url": "https://www.tcs.com/careers",
+    "enabled": true
+  },
+  {
+    "name": "Genpact",
+    "collector": "auto",
+    "careers_url": "https://www.genpact.com/careers/job-search",
+    "enabled": true
+  },
+  {
+    "name": "Persistent Systems",
+    "collector": "auto",
+    "careers_url": "https://careers.persistent.com/jobslist",
+    "enabled": true
+  },
+  {
+    "name": "Mastech Digital",
+    "collector": "auto",
+    "careers_url": "https://jobs.mastechdigital.com/",
+    "allowed_domains": [
+      "jobs.mastechdigital.com",
+      "mastechdigital.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Nesco Resource",
+    "collector": "auto",
+    "careers_url": "https://www.nescoresource.com/job-search",
+    "enabled": true
+  },
+  {
+    "name": "Beacon Hill Staffing Group",
+    "collector": "auto",
+    "careers_url": "https://jobs.beaconhillstaffing.com/jobs/job-search/",
+    "allowed_domains": [
+      "jobs.beaconhillstaffing.com",
+      "beaconhillstaffing.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "The Judge Group",
+    "collector": "auto",
+    "careers_url": "https://www.judge.com/jobs/",
+    "enabled": true
+  },
+  {
+    "name": "Kelly Services",
+    "collector": "auto",
+    "careers_url": "https://www.mykelly.com/job-search/",
+    "allowed_domains": [
+      "mykelly.com",
+      "kellyservices.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Volt Workforce Solutions",
+    "collector": "auto",
+    "careers_url": "https://jobs.volt.com/browse-jobs",
+    "allowed_domains": [
+      "jobs.volt.com",
+      "volt.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Actalent",
+    "collector": "auto",
+    "careers_url": "https://careers.actalentservices.com/us/en/search-results",
+    "enabled": true
+  },
+  {
+    "name": "Swoon",
+    "collector": "auto",
+    "careers_url": "https://www.swoonstaffing.com/jobs/",
+    "enabled": true
+  },
+  {
+    "name": "Genesis10",
+    "collector": "auto",
+    "careers_url": "https://www.genesis10.com/find-a-job",
+    "enabled": true
+  },
+  {
+    "name": "Agile Enterprise Solutions",
+    "collector": "smartrecruiters",
+    "company_identifier": "AgileEnterpriseSolutions",
+    "careers_url": "https://careers.smartrecruiters.com/AgileEnterpriseSolutions",
+    "allowed_domains": [
+      "careers.smartrecruiters.com",
+      "jobs.smartrecruiters.com",
+      "api.smartrecruiters.com"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Axon",
+    "collector": "auto",
+    "careers_url": "https://www.axon.com/careers",
+    "enabled": true
+  },
+  {
+    "name": "Akkodis",
+    "collector": "auto",
+    "careers_url": "https://www.akkodis.com/en-us/careers/jobs",
+    "enabled": true
+  },
+  {
+    "name": "MeeBoss",
+    "collector": "auto",
+    "careers_url": "https://www.meeboss.com/home",
+    "enabled": true,
+    "allowed_domains": [
+      "meeboss.com",
+      "www.meeboss.com"
+    ]
+  },
+  {
+    "name": "Burtch Works",
+    "collector": "auto",
+    "careers_url": "https://jobs.burtchworks.com/s/",
+    "allowed_domains": [
+      "jobs.burtchworks.com",
+      "burtchworks.com"
+    ],
+    "enabled": true
+  }
+]

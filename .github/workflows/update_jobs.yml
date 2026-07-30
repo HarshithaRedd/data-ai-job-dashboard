@@ -1,0 +1,106 @@
+name: Update Data AI Jobs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+      timezone: "America/Chicago"
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - "data/**"
+      - "dashboard/data/**"
+      - "output/**"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data-ai-job-dashboard
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Record previous job IDs
+        id: before
+        shell: bash
+        run: |
+          python - <<'PY' > /tmp/jobs-before.txt
+          import json
+          from pathlib import Path
+          path = Path("data/job_state.json")
+          if path.exists():
+              try:
+                  data = json.loads(path.read_text(encoding="utf-8"))
+                  print("\n".join(sorted(data)))
+              except Exception:
+                  pass
+          PY
+
+      - name: Collect jobs
+        run: python main.py
+
+      - name: Record current job IDs
+        shell: bash
+        run: |
+          python - <<'PY' > /tmp/jobs-after.txt
+          import json
+          from pathlib import Path
+          path = Path("data/job_state.json")
+          if path.exists():
+              data = json.loads(path.read_text(encoding="utf-8"))
+              print("\n".join(sorted(data)))
+          PY
+
+      - name: Commit job changes only when the active set changes
+        shell: bash
+        run: |
+          if cmp -s /tmp/jobs-before.txt /tmp/jobs-after.txt; then
+            echo "The active job set did not change. Skipping the data commit."
+          else
+            git config user.name "data-ai-job-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data dashboard/data output
+            git commit -m "Update Data and AI jobs [skip ci]" || true
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dashboard
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
