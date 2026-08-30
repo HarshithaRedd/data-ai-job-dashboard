@@ -2,9 +2,9 @@
   {
     "company": "TEKsystems",
     "status": "ok",
-    "jobs_found": 8,
+    "jobs_found": 2,
     "method": "HTTP+Playwright",
-    "duration_seconds": 94.33,
+    "duration_seconds": 86.46,
     "message": "",
     "careers_url": "https://careers.teksystems.com/us/en/search-results"
   },
@@ -13,16 +13,16 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 74.13,
+    "duration_seconds": 73.39,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://jobs.insightglobal.com/find_a_job/?miles=False&remote=false&srch=data"
   },
   {
     "company": "Apex Systems",
     "status": "ok",
-    "jobs_found": 59,
-    "method": "HTTP+Playwright",
-    "duration_seconds": 78.83,
+    "jobs_found": 40,
+    "method": "HTTP",
+    "duration_seconds": 39.08,
     "message": "",
     "careers_url": "https://www.apexsystems.com/search-results-usa"
   },
@@ -31,7 +31,7 @@
     "status": "ok",
     "jobs_found": 37,
     "method": "HTTP",
-    "duration_seconds": 13.55,
+    "duration_seconds": 13.48,
     "message": "",
     "careers_url": "https://motionrecruitment.com/tech-jobs/data-engineering"
   },
@@ -40,7 +40,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 51.88,
+    "duration_seconds": 51.44,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.kforce.com/find-work/search-jobs/"
   },
@@ -49,7 +49,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP",
-    "duration_seconds": 0.88,
+    "duration_seconds": 0.83,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.randstadusa.com/jobs/"
   },
@@ -58,7 +58,7 @@
     "status": "ok",
     "jobs_found": 1,
     "method": "HTTP",
-    "duration_seconds": 0.56,
+    "duration_seconds": 0.52,
     "message": "",
     "careers_url": "https://www.roberthalf.com/us/en/find-jobs"
   },
@@ -67,7 +67,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP",
-    "duration_seconds": 0.29,
+    "duration_seconds": 0.35,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.michaelpage.com/job-search"
   },
@@ -76,7 +76,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 28.05,
+    "duration_seconds": 27.36,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.adecco.com/en-us/job-seekers"
   },
@@ -85,7 +85,7 @@
     "status": "ok",
     "jobs_found": 14,
     "method": "HTTP+Playwright",
-    "duration_seconds": 36.58,
+    "duration_seconds": 39.72,
     "message": "",
     "careers_url": "https://www.manpower.com/en/search"
   },
@@ -94,7 +94,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 31.23,
+    "duration_seconds": 31.08,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://collabera.com/job-search/"
   },
@@ -103,7 +103,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 39.38,
+    "duration_seconds": 41.06,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.compunnel.com/jobs/"
   },
@@ -112,7 +112,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 26.6,
+    "duration_seconds": 30.0,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g&compid=0"
   },
@@ -120,8 +120,8 @@
     "company": "eTeam",
     "status": "zero",
     "jobs_found": 0,
-    "method": "Playwright",
-    "duration_seconds": 16.19,
+    "method": "HTTP+Playwright",
+    "duration_seconds": 19.14,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://my.eteaminc.com/careers/"
   },
@@ -130,7 +130,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 33.34,
+    "duration_seconds": 30.14,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.intelliswift.com/careers/current-openings"
   },
@@ -139,7 +139,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 35.63,
+    "duration_seconds": 33.54,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://careers.lancesoft.com/index.smpl?arg=jb_search"
   },
@@ -148,7 +148,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 24.38,
+    "duration_seconds": 22.87,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://idctechnologies.com/job-seeker"
   },
@@ -157,7 +157,7 @@
     "status": "ok",
     "jobs_found": 18,
     "method": "SmartRecruiters API",
-    "duration_seconds": 9.41,
+    "duration_seconds": 9.14,
     "message": "",
     "careers_url": "https://careers.smartrecruiters.com/USTechSolutions2"
   },
@@ -165,8 +165,8 @@
     "company": "Siri InfoSolutions",
     "status": "zero",
     "jobs_found": 0,
-    "method": "Playwright",
-    "duration_seconds": 17.87,
+    "method": "HTTP+Playwright",
+    "duration_seconds": 20.19,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.siriinfosolutions.com/careers.html"
   },
@@ -175,7 +175,7 @@
     "status": "ok",
     "jobs_found": 1,
     "method": "HTTP+Playwright",
-    "duration_seconds": 26.67,
+    "duration_seconds": 26.08,
     "message": "",
     "careers_url": "https://www.pyramidcg.com/all-jobs"
   },
@@ -184,7 +184,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 38.62,
+    "duration_seconds": 38.04,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.artech.com/careers/"
   },
@@ -193,7 +193,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 23.48,
+    "duration_seconds": 22.45,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://mindlance.com/careers/"
   },
@@ -202,7 +202,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "Playwright",
-    "duration_seconds": 74.14,
+    "duration_seconds": 54.71,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://net2source.jobs.net/"
   },
@@ -211,7 +211,7 @@
     "status": "ok",
     "jobs_found": 5,
     "method": "HTTP+Playwright",
-    "duration_seconds": 50.97,
+    "duration_seconds": 46.95,
     "message": "",
     "careers_url": "https://www.roseint.com/hotjobs/JobsSearch.aspx"
   },
@@ -220,7 +220,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 72.01,
+    "duration_seconds": 41.66,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.bcforward.com/find-a-job/"
   },
@@ -229,7 +229,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 40.53,
+    "duration_seconds": 27.22,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://jobs.softworldinc.com/"
   },
@@ -238,7 +238,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 17.83,
+    "duration_seconds": 23.79,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.vdart.com/careers/current-opportunities/"
   },
@@ -247,7 +247,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "Playwright",
-    "duration_seconds": 37.43,
+    "duration_seconds": 37.8,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://careers.nityo.com/"
   },
@@ -256,7 +256,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 19.22,
+    "duration_seconds": 19.4,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.cynetsystems.com/find-work/"
   },
@@ -265,7 +265,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "Playwright",
-    "duration_seconds": 54.28,
+    "duration_seconds": 54.65,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://inficaretechnologies.jobs.net/"
   },
@@ -274,7 +274,7 @@
     "status": "ok",
     "jobs_found": 2,
     "method": "SmartRecruiters API",
-    "duration_seconds": 31.45,
+    "duration_seconds": 1.45,
     "message": "",
     "careers_url": "https://careers.smartrecruiters.com/Compugain1"
   },
@@ -283,7 +283,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 37.8,
+    "duration_seconds": 29.81,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.damcogroup.com/careers"
   },
@@ -292,7 +292,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 50.22,
+    "duration_seconds": 42.34,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://careers.hcltech.com/"
   },
@@ -301,7 +301,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "Playwright",
-    "duration_seconds": 15.81,
+    "duration_seconds": 15.24,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://hexaware.com/careers/"
   },
@@ -310,7 +310,7 @@
     "status": "ok",
     "jobs_found": 1,
     "method": "HTTP",
-    "duration_seconds": 0.95,
+    "duration_seconds": 0.41,
     "message": "",
     "careers_url": "https://careers.cognizant.com/us-en/jobs/"
   },
@@ -319,7 +319,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "Playwright",
-    "duration_seconds": 18.1,
+    "duration_seconds": 17.79,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://digitalcareers.infosys.com/global-careers"
   },
@@ -328,7 +328,7 @@
     "status": "ok",
     "jobs_found": 23,
     "method": "HTTP+Playwright",
-    "duration_seconds": 52.32,
+    "duration_seconds": 46.52,
     "message": "",
     "careers_url": "https://careers.wipro.com/"
   },
@@ -337,7 +337,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "Playwright",
-    "duration_seconds": 15.66,
+    "duration_seconds": 15.97,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.tcs.com/careers"
   },
@@ -346,7 +346,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 23.68,
+    "duration_seconds": 41.31,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.genpact.com/careers/job-search"
   },
@@ -355,7 +355,7 @@
     "status": "error",
     "jobs_found": 0,
     "method": "auto",
-    "duration_seconds": 1.39,
+    "duration_seconds": 2.4,
     "message": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.persistent.com/jobslist\nCall log:\n  - navigating to \"https://careers.persistent.com/jobslist\", waiting until \"domcontentloaded\"\n",
     "careers_url": "https://careers.persistent.com/jobslist"
   },
@@ -364,17 +364,17 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP",
-    "duration_seconds": 0.39,
+    "duration_seconds": 1.26,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://jobs.mastechdigital.com/"
   },
   {
     "company": "Nesco Resource",
-    "status": "ok",
-    "jobs_found": 12,
+    "status": "zero",
+    "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 35.08,
-    "message": "",
+    "duration_seconds": 26.87,
+    "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.nescoresource.com/job-search"
   },
   {
@@ -382,16 +382,16 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP",
-    "duration_seconds": 0.45,
+    "duration_seconds": 0.71,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://jobs.beaconhillstaffing.com/jobs/job-search/"
   },
   {
     "company": "The Judge Group",
     "status": "ok",
-    "jobs_found": 42,
+    "jobs_found": 41,
     "method": "HTTP+Playwright",
-    "duration_seconds": 40.23,
+    "duration_seconds": 42.65,
     "message": "",
     "careers_url": "https://www.judge.com/jobs/"
   },
@@ -400,7 +400,7 @@
     "status": "ok",
     "jobs_found": 2,
     "method": "HTTP",
-    "duration_seconds": 3.0,
+    "duration_seconds": 3.89,
     "message": "",
     "careers_url": "https://www.mykelly.com/job-search/"
   },
@@ -409,16 +409,16 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP",
-    "duration_seconds": 0.75,
+    "duration_seconds": 1.02,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://jobs.volt.com/browse-jobs"
   },
   {
     "company": "Actalent",
     "status": "ok",
-    "jobs_found": 19,
+    "jobs_found": 18,
     "method": "HTTP+Playwright",
-    "duration_seconds": 57.86,
+    "duration_seconds": 36.36,
     "message": "",
     "careers_url": "https://careers.actalentservices.com/us/en/search-results"
   },
@@ -427,7 +427,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP",
-    "duration_seconds": 7.88,
+    "duration_seconds": 8.37,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.swoonstaffing.com/jobs/"
   },
@@ -436,7 +436,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 27.81,
+    "duration_seconds": 28.48,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.genesis10.com/find-a-job"
   },
@@ -445,7 +445,7 @@
     "status": "ok",
     "jobs_found": 14,
     "method": "SmartRecruiters API",
-    "duration_seconds": 7.48,
+    "duration_seconds": 6.97,
     "message": "",
     "careers_url": "https://careers.smartrecruiters.com/AgileEnterpriseSolutions"
   },
@@ -454,7 +454,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "HTTP+Playwright",
-    "duration_seconds": 21.12,
+    "duration_seconds": 20.95,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.axon.com/careers"
   },
@@ -463,7 +463,7 @@
     "status": "zero",
     "jobs_found": 0,
     "method": "Playwright",
-    "duration_seconds": 87.69,
+    "duration_seconds": 89.48,
     "message": "No verified Data/AI job detail pages were found.",
     "careers_url": "https://www.akkodis.com/en-us/careers/jobs"
   },
@@ -472,7 +472,7 @@
     "status": "ok",
     "jobs_found": 3,
     "method": "HTTP",
-    "duration_seconds": 1.92,
+    "duration_seconds": 1.42,
     "message": "",
     "careers_url": "https://www.meeboss.com/home"
   },
@@ -481,7 +481,7 @@
     "status": "ok",
     "jobs_found": 1,
     "method": "HTTP+Playwright",
-    "duration_seconds": 52.91,
+    "duration_seconds": 51.75,
     "message": "",
     "careers_url": "https://jobs.burtchworks.com/s/"
   }
