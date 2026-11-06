@@ -1,1540 +1,1568 @@
 {
+  "ccacb0d7b88ad38f5cdd": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "Support Analyst",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006369785/Support-Analyst"
+  },
+  "038d123b53d77da1f829": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "Data Management Analyst",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006364468/Data-Management-Analyst"
+  },
+  "82976401f4e9e050b848": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "Support Analyst",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006369477/Support-Analyst"
+  },
+  "6f64d5360e638ca31de1": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "IT Support Analyst II",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006363864/IT-Support-Analyst-II"
+  },
+  "2dd3e206daab26b3a84b": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "IT Support Analyst II",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006401588/IT-Support-Analyst-II"
+  },
+  "d870f6d20032fc663fc0": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "Servicenow Business Analyst",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006386182/Servicenow-Business-Analyst"
+  },
+  "017958d590870b4fae28": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "Data Governance Analyst",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006358257/Data-Governance-Analyst"
+  },
+  "f7513b0464c4b3a5b0f9": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "Data Analyst (Financial Services Or Banking Experience Required)",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006386688/Data-Analyst-Financial-Services-Or-Banking-Experience-Required"
+  },
+  "b806736b17324ab02cbe": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "AI/ML Engineer II",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006354900/AI-ML-Engineer-II"
+  },
+  "4c06919f28a302bd73bd": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "TEKsystems",
+    "job_title": "AI/ML Engineer II",
+    "application_url": "https://careers.teksystems.com/us/en/job/JP-006378513/AI-ML-Engineer-II"
+  },
+  "1a595d89beb16358ea98": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Senior Business Analyst (hybrid onsite)- DT Milwaukee",
+    "application_url": "https://www.apexsystems.com/job/3058604_usa/senior-business-analyst--hybrid-onsite--dt-milwaukee"
+  },
+  "8dacebfcfed2c2d840d1": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Python Data Engineer",
+    "application_url": "https://www.apexsystems.com/job/3054714_usa/python-data-engineer"
+  },
+  "f51972657a8202b076a9": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Coupa AI Product Manager",
+    "application_url": "https://www.apexsystems.com/job/3058530_usa/coupa-ai-product-manager"
+  },
+  "c4e36e530ac34b33c848": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Database Administrator 5",
+    "application_url": "https://www.apexsystems.com/job/3055663_usa/database-administrator-5"
+  },
+  "3943d16b79f301b4683d": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "AML Analyst",
+    "application_url": "https://www.apexsystems.com/job/3056909_usa/aml-analyst"
+  },
+  "877d5ad240362c6bd93f": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Business Operations Analyst 1",
+    "application_url": "https://www.apexsystems.com/job/3058556_usa/business-operations-analyst-1"
+  },
+  "00a343f0f24df606cafd": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Snowflake Data Engineer II",
+    "application_url": "https://www.apexsystems.com/job/3058416_usa/snowflake-data-engineer-ii"
+  },
+  "24ca2c09fff176b3261e": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Control Room Support Analyst",
+    "application_url": "https://www.apexsystems.com/job/3058570_usa/control-room-support-analyst"
+  },
+  "166b7516924948823f07": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "BI Developer/Report Writer (Non-Clinical)",
+    "application_url": "https://www.apexsystems.com/job/3058606_usa/bi-developerreport-writer-non-clinical"
+  },
+  "6e40e4987c9f2acc57de": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Business Technical Analyst",
+    "application_url": "https://www.apexsystems.com/job/3058515_usa/business-technical-analyst"
+  },
+  "392573d512f4fe766667": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Apex Systems",
+    "job_title": "Information Security Analyst",
+    "application_url": "https://www.apexsystems.com/job/3058554_usa/information-security-analyst"
+  },
   "a23a36aeb8b04b8f254a": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Sr. SQL Database Administrator",
     "application_url": "https://www.apexsystems.com/job/3058509_usa/sr-sql-database-administrator"
   },
   "4b70e7043003de30fc5d": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Senior IT Business/Compliance Analyst",
     "application_url": "https://www.apexsystems.com/job/3058454_usa/senior-it-businesscompliance-analyst"
   },
   "d2c7a917f6daefd25bee": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "ABA Testing Analyst",
     "application_url": "https://www.apexsystems.com/job/3058481_usa/aba-testing-analyst"
   },
   "0fcff95448aa2121892c": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Data Analyst",
     "application_url": "https://www.apexsystems.com/job/3058277_usa/data-analyst"
   },
   "2b53f1a99c1a8938675e": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Business Data Analyst",
     "application_url": "https://www.apexsystems.com/job/3058399_usa/business-data-analyst"
   },
   "5f6be8f9622d6c355434": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "IT - Senior Business Process Analyst",
     "application_url": "https://www.apexsystems.com/job/3058347_usa/it---senior-business-process-analyst"
   },
   "76280de45c29ab316c40": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Power Bi Developer",
     "application_url": "https://www.apexsystems.com/job/3058458_usa/power-bi-developer"
   },
   "f6d1b67429eff4851440": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Network Data Comm Analyst",
     "application_url": "https://www.apexsystems.com/job/3058430_usa/network-data-comm-analyst"
   },
   "a6ed1e260893cb173b5a": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Senior Analytics Engineer",
     "application_url": "https://www.apexsystems.com/job/3058404_usa/senior-analytics-engineer"
   },
   "870578ea679fda6432f7": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Information Security Analyst",
     "application_url": "https://www.apexsystems.com/job/3058446_usa/information-security-analyst"
   },
   "4257dd5afad1d74c645e": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "COSD Business Operations Analyst III",
     "application_url": "https://www.apexsystems.com/job/3057222_usa/cosd-business-operations-analyst-iii"
   },
   "be3b07752960041355f8": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "DMHS AI Engineer",
     "application_url": "https://www.apexsystems.com/job/3043232_usa/dmhs-ai-engineer"
   },
   "e2b4ac82ea9a198123e9": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Tech Product Analyst",
     "application_url": "https://www.apexsystems.com/job/3058377_usa/tech-product-analyst"
   },
   "62f2b40ec581c95e1898": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Database Administrator III",
     "application_url": "https://www.apexsystems.com/job/3058357_usa/database-administrator-iii"
   },
   "988c082b054a4dad876e": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Compensation Analyst",
     "application_url": "https://www.apexsystems.com/job/3055971_usa/compensation-analyst"
   },
   "83a9284beab34ca8e4d2": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Business Intelligence Solutions Developer 3",
     "application_url": "https://www.apexsystems.com/job/3058344_usa/business-intelligence-solutions-developer-3"
   },
   "78ca4cfbfb9b6054545c": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Generative AI Engineer",
     "application_url": "https://www.apexsystems.com/job/3058340_usa/generative-ai-engineer"
   },
   "380006ba17663064be91": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Data Engineer",
     "application_url": "https://www.apexsystems.com/job/3058325_usa/data-engineer"
   },
   "59494eb9039b65ac769d": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Sr. Data Engineer",
     "application_url": "https://www.apexsystems.com/job/3057497_usa/sr-data-engineer"
   },
   "5fa2333ed3a3257a5bc4": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Insider Risk Analytics Engineer",
     "application_url": "https://www.apexsystems.com/job/3058316_usa/insider-risk-analytics-engineer"
   },
   "43f4fe0666154184cd05": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "AI Automation Business Analyst",
     "application_url": "https://www.apexsystems.com/job/3058291_usa/ai-automation-business-analyst"
   },
   "24fb8ba8578a41aa10e2": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "AI Automation Business Analyst",
     "application_url": "https://www.apexsystems.com/job/3058290_usa/ai-automation-business-analyst"
   },
   "6f139b3ff00156131a79": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "AI Automation Business Analyst",
     "application_url": "https://www.apexsystems.com/job/3058288_usa/ai-automation-business-analyst"
   },
   "220c665be23619e31462": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Data Management - Data Analyst - Sr",
     "application_url": "https://www.apexsystems.com/job/3058226_usa/data-management---data-analyst---sr"
   },
   "44e794e324da04e5d101": {
     "first_seen": "2026-11-04T01:46:39+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Governance Analyst",
     "application_url": "https://www.apexsystems.com/job/3058220_usa/governance-analyst"
   },
   "9bbfdfb807eca8e8c574": {
     "first_seen": "2026-11-04T01:46:39+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Apex Systems",
     "job_title": "Business Analyst - Polarion",
     "application_url": "https://www.apexsystems.com/job/3058202_usa/business-analyst---polarion"
   },
-  "fe5960b55901b7065a4d": {
-    "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Hospitality Test Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058052_usa/hospitality-test-analyst"
-  },
-  "9c146c03785f609ce838": {
-    "first_seen": "2026-11-04T01:46:39+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Business Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058124_usa/business-analyst"
-  },
-  "0beb111154f10aa23192": {
-    "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "GIS QA Associate/ Analyst",
-    "application_url": "https://www.apexsystems.com/job/3057890_usa/gis-qa-associate-analyst"
-  },
-  "a0b04db8568075564aa7": {
-    "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Service Desk Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058162_usa/service-desk-analyst"
-  },
-  "bfef796d1068268bdb02": {
-    "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Technical Analyst-JR",
-    "application_url": "https://www.apexsystems.com/job/3058067_usa/technical-analyst-jr"
-  },
-  "befcbaa277228bab224c": {
-    "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Databricks Developer",
-    "application_url": "https://www.apexsystems.com/job/3058073_usa/databricks-developer"
-  },
-  "6af1a436fb572c44c07b": {
-    "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Data Engineer II",
-    "application_url": "https://www.apexsystems.com/job/3058084_usa/data-engineer-ii"
-  },
-  "3c30692710eb09e5d22a": {
-    "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Senior Automation Engineering Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058103_usa/senior-automation-engineering-analyst"
-  },
-  "68c1c89e8229669ff82e": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Jr Business Analyst",
-    "application_url": "https://www.apexsystems.com/job/3057990_usa/jr-business-analyst"
-  },
-  "af7552cdd90d08908c2e": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Application Implementation Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058099_usa/application-implementation-analyst"
-  },
-  "a789364421412cce755c": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Sr. Data Analyst - SQL + Python",
-    "application_url": "https://www.apexsystems.com/job/3058062_usa/sr-data-analyst---sql--python"
-  },
-  "01a1a2471fb71e2a874c": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Power Automate Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058012_usa/power-automate-analyst"
-  },
-  "05d815800eb9fe1fbd9f": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Material Master Data Analyst (SAP)",
-    "application_url": "https://www.apexsystems.com/job/3057777_usa/material-master-data-analyst-sap"
-  },
-  "ca06869508d028ffd048": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Senior Portfolio Analyst/ BA",
-    "application_url": "https://www.apexsystems.com/job/3058089_usa/senior-portfolio-analyst-ba"
-  },
-  "bb82611e081e55dcf984": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "AI Engineer",
-    "application_url": "https://www.apexsystems.com/job/3058083_usa/ai-engineer"
-  },
-  "dad58124c0576958d34a": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Database Administrator",
-    "application_url": "https://www.apexsystems.com/job/3058078_usa/database-administrator"
-  },
-  "aaeeec7506e7d847ee8b": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Computer Systems Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058079_usa/computer-systems-analyst"
-  },
-  "7f4880e31925ea3516d5": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Configuration Analyst",
-    "application_url": "https://www.apexsystems.com/job/3057722_usa/configuration-analyst"
-  },
-  "eeed68fcb689f2f251f8": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "Data Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058021_usa/data-analyst"
-  },
-  "a661df5ff73911fc9474": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Apex Systems",
-    "job_title": "MMIS SQA Analyst",
-    "application_url": "https://www.apexsystems.com/job/3058037_usa/mmis-sqa-analyst"
-  },
   "eeba2482b3e3680a7e15": {
     "first_seen": "2026-09-15T18:37:24+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Associate Data Engineer - CTH",
     "application_url": "https://motionrecruitment.com/tech-jobs/fort-worth/contract/associate-data-engineer-cth/884700"
   },
+  "fa5c8e33aa479ac1404b": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Motion Recruitment",
+    "job_title": "Lead Data Engineer, Scientific Data - Boston, Ma",
+    "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/lead-data-engineer-scientific-data-boston-ma/894317"
+  },
+  "8a9546223c2bf603be64": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Motion Recruitment",
+    "job_title": "Senior Life Sciences Data Engineer - Cambridge, MA",
+    "application_url": "https://motionrecruitment.com/tech-jobs/cambridge/direct-hire/senior-life-sciences-data-engineer-cambridge-ma/893866"
+  },
   "c95c69611cfa4f5351cd": {
     "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Data Engineer (Cloud, Databricks & Advanced Analytics)",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/senior-data-engineer-cloud-databricks-and-advanced-analytics/894021"
   },
   "752ab831265edb4a0421": {
     "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Quantitative Analytics Engineer - Python/SQL/Finance - Boston, MA",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/quantitative-analytics-engineer-python-sql-finance-boston-ma/893559"
   },
   "179de2fb1601500c02bd": {
     "first_seen": "2026-10-28T17:37:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Investment Data Analyst - Boston, MA",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/investment-data-analyst-boston-ma/893560"
   },
   "bfb815dcc8591a088db4": {
     "first_seen": "2026-10-28T17:37:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Agentic AI Engineer",
     "application_url": "https://motionrecruitment.com/tech-jobs/webster-/direct-hire/agentic-ai-engineer/893539"
   },
   "7616766a6fb7e79605b7": {
     "first_seen": "2026-10-27T21:43:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Data Engineer",
     "application_url": "https://motionrecruitment.com/tech-jobs/montreal/direct-hire/data-engineer/893502"
   },
   "6dfa29568b994667a8da": {
     "first_seen": "2026-10-22T19:18:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Lead Data Engineer (Remote in NH)",
     "application_url": "https://motionrecruitment.com/tech-jobs/manchester/direct-hire/lead-data-engineer-remote-in-nh/893097"
   },
   "1e7e9b2d0d435e168fdf": {
     "first_seen": "2026-10-22T19:18:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Lead Data Platform Engineer (Remote in ME)",
     "application_url": "https://motionrecruitment.com/tech-jobs/portland/direct-hire/lead-data-platform-engineer-remote-in-me/893096"
   },
   "87f24c3942eec6a2a998": {
     "first_seen": "2026-10-22T19:18:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Scientific Data Engineer (Remote in MA)",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/senior-scientific-data-engineer-remote-in-ma/893095"
   },
   "666e70be5cca52d9aa11": {
     "first_seen": "2026-10-16T23:17:24+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Databricks Engineer / Remote / Contract",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/contract/databricks-engineer-remote-contract/892736"
   },
   "a24015c3d3d9a50ff7de": {
     "first_seen": "2026-10-14T14:07:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Staff Data Architect - Remote (EST)",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/staff-data-architect-remote-est/892444"
   },
   "c27af712304b429bf64a": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Principal Data Scientist - Remote (EST)",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/principal-data-scientist-remote-est/892443"
   },
   "e7905ac6d755fda0d52a": {
     "first_seen": "2026-10-14T00:10:03+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Lead Data Architect",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/lead-data-architect/892399"
   },
   "58d7efd063a8aa44eef8": {
     "first_seen": "2026-10-10T00:29:33+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Remote Staff Data Scientist",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/remote-staff-data-scientist/892174"
   },
   "d067ca5f7987ebd6f5df": {
     "first_seen": "2026-10-10T00:29:33+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Remote Lead Data Architect - Snowflake/SQL/Python",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/direct-hire/remote-lead-data-architect-snowflake-sql-python/892161"
   },
   "929a33ec249a83bc45b9": {
     "first_seen": "2026-10-09T00:48:33+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Analytics Engineer - dbt/SQL/Python - Boston, Ma",
     "application_url": "https://motionrecruitment.com/tech-jobs/boston/contract/senior-analytics-engineer-dbt-sql-python-boston-ma/892031"
   },
   "aa056ca18327d8e8f2ed": {
     "first_seen": "2026-10-07T20:26:04+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Data Engineer (ADF / Snowflake / Terraform)",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/senior-data-engineer-adf-snowflake-terraform/891891"
   },
   "41d0435cd1bad97a15fe": {
     "first_seen": "2026-10-07T20:26:04+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Data Engineer (Snowflake / dbt / Fivetran / AWS)",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/senior-data-engineer-snowflake-dbt-fivetran-aws/891892"
   },
   "15f141f7e604c151832a": {
     "first_seen": "2026-10-07T02:48:05+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Data Engineer (Snowflake, Python, AI/ML Data Pipelines)",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/contract/data-engineer-snowflake-python-ai-ml-data-pipelines/891815"
   },
   "ac913caadefeaa9d0a60": {
     "first_seen": "2026-10-07T02:48:05+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Data Engineer (Snowflake, Python, AI/ML Data Pipelines)",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/contract/data-engineer-snowflake-python-ai-ml-data-pipelines/891811"
   },
   "32d5d84ff07e48b35fdd": {
     "first_seen": "2026-09-30T21:56:04+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "SAP Master Data Architect - Needham, Ma",
     "application_url": "https://motionrecruitment.com/tech-jobs/needham/direct-hire/sap-master-data-architect-needham-ma/888810"
   },
   "4013757fbda640752fe6": {
     "first_seen": "2026-10-05T20:07:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Data Engineer (dbt, Snowflake, Modern Analytics Stack)",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/senior-data-engineer-dbt-snowflake-modern-analytics-stack/891598"
   },
   "01a0bdefd40d307d2fff": {
     "first_seen": "2026-10-05T20:07:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Data Engineer | dbt, Snowflake & Data Transformation",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/senior-data-engineer-dbt-snowflake-and-data-transformation/891600"
   },
   "daa3e2d26d4032e1ed04": {
     "first_seen": "2026-10-05T20:07:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior AI Engineer II",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/senior-ai-engineer-ii/891580"
   },
   "04610522eb708a5f80ae": {
     "first_seen": "2026-10-05T20:07:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Agentic AI Engineer",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/agentic-ai-engineer/891578"
   },
   "8e507a40a646b69b913b": {
     "first_seen": "2026-10-05T20:07:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Data Engineer (Databricks)",
     "application_url": "https://motionrecruitment.com/tech-jobs/dallas/direct-hire/data-engineer-databricks/891575"
   },
   "9a28e93eb4abf69a9f14": {
     "first_seen": "2026-10-05T20:07:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Data Engineer (Snowflake / dbt / Fivetran)",
     "application_url": "https://motionrecruitment.com/tech-jobs/addison/direct-hire/data-engineer-snowflake-dbt-fivetran/891565"
   },
   "804829dfb347ca52e5ac": {
     "first_seen": "2026-09-01T18:18:15+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Data Engineer / Databricks / End-to-End Ownerhp",
     "application_url": "https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-data-engineer-databricks-end-to-end-ownerhp/876474"
   },
   "a5c7a5407f8dbed28b03": {
     "first_seen": "2026-09-28T19:01:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Threat Detection & Security Analytics Engineer - Georgia",
     "application_url": "https://motionrecruitment.com/tech-jobs/alpharetta/contract/threat-detection-and-security-analytics-engineer-georgia/888545"
   },
   "ad181cacc5375145c150": {
     "first_seen": "2026-09-25T19:01:26+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Cybersecurity Data Engineer - Python/SQL/PowerBi/Security Analytics",
     "application_url": "https://motionrecruitment.com/tech-jobs/alpharetta/contract/cybersecurity-data-engineer-python-sql-powerbi-security-analytics/888444"
   },
   "947d7f87986456a2fec1": {
     "first_seen": "2026-09-23T18:46:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Data Quality Tester / ETL / SQL / Chicago",
     "application_url": "https://motionrecruitment.com/tech-jobs/chicago/contract/data-quality-tester-etl-sql-chicago/888265"
   },
   "fd8f32a1f36407c076dc": {
     "first_seen": "2026-09-14T21:22:24+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Business Data Analyst",
     "application_url": "https://motionrecruitment.com/tech-jobs/alpharetta/contract/business-data-analyst/887454"
   },
   "af0f816b04e17bba2a23": {
     "first_seen": "2026-09-11T18:11:05+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Data Scientist / Fully Remote / Work Life Balance",
     "application_url": "https://motionrecruitment.com/tech-jobs/detroit/contract/data-scientist-fully-remote-work-life-balance/887341"
   },
   "ee4d1750d211c7261738": {
     "first_seen": "2026-09-10T18:09:10+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Cybersecurity Data Engineer, Python/SQL/PowerBi - Georgia",
     "application_url": "https://motionrecruitment.com/tech-jobs/alpharetta/contract/cybersecurity-data-engineer-python-sql-powerbi-georgia/887207"
   },
   "4e0366afed1d5979acd2": {
     "first_seen": "2026-08-30T23:11:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Motion Recruitment",
     "job_title": "Senior Data Engineer | Snowflake | DBT | FiveTran | Addison, TX",
     "application_url": "https://motionrecruitment.com/tech-jobs/addison/direct-hire/senior-data-engineer-snowflake-dbt-fivetran-addison-tx/884977"
   },
-  "5fb75c512976413195eb": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "f36d5e72c0792f482d7c": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Robert Half",
-    "job_title": "248 results for Data Engineer jobs",
+    "job_title": "256 results for Data Engineer jobs",
     "application_url": "https://www.roberthalf.com/us/en/jobs/all/data-engineer"
-  },
-  "ffdf1ae9b3e71ef1ce44": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "ManpowerGroup",
-    "job_title": "Operations Analyst",
-    "application_url": "https://www.manpower.com/en/job/architecture-and-engineering/operations-analyst/417521"
   },
   "f7f171cfdb72efcca1a0": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Marketing Intelligence Analyst",
     "application_url": "https://www.manpower.com/en/job/business-operations/marketing-intelligence-analyst/5883169"
   },
   "1c85522cebc8534c6229": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Remote Data Analyst CA only",
     "application_url": "https://www.manpower.com/en/job/computer/remote-data-analyst-ca-only-/5889335"
   },
+  "ffdf1ae9b3e71ef1ce44": {
+    "first_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "ManpowerGroup",
+    "job_title": "Operations Analyst",
+    "application_url": "https://www.manpower.com/en/job/architecture-and-engineering/operations-analyst/417521"
+  },
   "90e82fcf9fb38e699886": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Process Improvement Analyst",
     "application_url": "https://www.manpower.com/en/job/architecture-and-engineering/process-improvement-analyst/411665"
   },
   "40b5e38345ec9bd6ae2f": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Supply Chain Analyst",
     "application_url": "https://www.manpower.com/en/job/architecture-and-engineering/supply-chain-analyst/417442"
   },
   "2ab5e4898ed1f559ccba": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Data Analyst",
     "application_url": "https://www.manpower.com/en/job/architecture-and-engineering/data-analyst/416986"
   },
   "8b09d4731e98fd3aad85": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Call Center Quality Analyst",
     "application_url": "https://www.manpower.com/en/job/administration-and-support/call-center-quality-analyst/5903866"
   },
   "b222970e9be430ee9c20": {
     "first_seen": "2026-11-05T11:16:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "UKG Scheduling Systems Analyst",
     "application_url": "https://www.manpower.com/en/job/architecture-and-engineering/ukg-scheduling-systems-analyst/409683"
   },
   "edebaf9652ddef3c58dc": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Inventory Control Analyst",
     "application_url": "https://www.manpower.com/en/job/administration-and-support/inventory-control-analyst/5915715"
   },
   "af00ee6ceb3efe0cffb4": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Compensation Analyst",
     "application_url": "https://www.manpower.com/en/job/business-operations/compensation-analyst/5906831"
   },
   "b8bb41fbf34c4234c974": {
     "first_seen": "2026-11-01T02:40:16+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "ManpowerGroup",
     "job_title": "Remote Data Analyst",
     "application_url": "https://www.manpower.com/en/job/computer/remote-data-analyst-/5879174"
   },
   "2a655a025e9258d5b76f": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Support Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/109625889-support-analyst?oga=true"
   },
   "02e4361c9124b313e587": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Data Architect",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/107710098-data-architect?oga=true"
   },
   "e8f6fd68f0c8963a7a1b": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Applications System Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/107273359-applications-system-analyst?oga=true"
   },
   "3a12d7e1695e93f24087": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "MDM Data Analyst I",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/103472117-mdm-data-analyst-i?oga=true"
   },
   "2b87177fd8a91d1b3c10": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Data Migration Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/100992416-data-migration-analyst?oga=true"
   },
   "bce9bd6942bda16e1d08": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Data Security analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/100745719-data-security-analyst?oga=true"
   },
   "17b90594009fe99d1583": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Computer Vision Algorithm Engineer",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/100672079-computer-vision-algorithm-engineer?oga=true"
   },
   "36926768d7d1374bbba5": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "EDI Programmer Analyst & Manager",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/93892950-edi-programmer-analyst-manager?oga=true"
   },
   "80c10598e102ec2e4da0": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Mobile Automation Test Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/93157465-mobile-automation-test-analyst?oga=true"
   },
   "4299b8fc9cc8be3bfc33": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Application Support Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/88443359-application-support-analyst?oga=true"
   },
   "c6ecd4c346de62f82786": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Shipboard Business Systems Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/87837860-shipboard-business-systems-analyst?oga=true"
   },
   "ff66976e897c4a7cacad": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "EFT Processing Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/87772674-eft-processing-analyst?oga=true"
   },
   "618dae4b9e249bc47945": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Sr. IT Communication Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/86563413-sr-it-communication-analyst?oga=true"
   },
   "9247a1e706741e8b0544": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Business Analyst/Qlikeview Developer",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/86505098-business-analyst-qlikeview-developer?oga=true"
   },
   "62f9684d4a4312d88e6f": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Business analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/86239602-business-analyst?oga=true"
   },
   "0824e44805cde39b3822": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Administrative Assistant/Entry Level Business Analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/86114043-administrative-assistant-entry-level-business-analyst?oga=true"
   },
   "cc841923fe467641e8cf": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Business analyst",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/85863294-business-analyst?oga=true"
   },
   "598b89494bc90bc7bd81": {
     "first_seen": "2026-10-20T18:55:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "US Tech Solutions",
     "job_title": "Sr. Data Analyst/BIE",
     "application_url": "https://jobs.smartrecruiters.com/USTechSolutions2/85837517-sr-data-analyst-bie?oga=true"
   },
   "fd475ff25da3c9f72e0e": {
     "first_seen": "2026-10-30T21:55:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Pyramid Consulting",
     "job_title": "Temp Data Engineer",
     "application_url": "https://www.pyramidcg.com/job-details/temp-data-engineer-in-information-technology-jobs-1777698"
   },
+  "7c373d65e0b8cf009615": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Rose International",
+    "job_title": "NEW JOB OPENING IMPORT COMPLIANCE ANALYST - CUSTOMS, HTS CLASSIFICATION & TRADE COMPLIANCE IN HOUSTON, TX, USA!",
+    "application_url": "https://www.roseint.com/Jobs/Compliance-Analyst-TX-Houston-Rose-International-Job-510464.html"
+  },
+  "d7935f36d645a8085f18": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Rose International",
+    "job_title": "NEW JOB OPENING SENIOR IT BUSINESS ANALYST SOFTWARE DEVELOPMENT, AZURE DEVOPS & DYNAMICS 365 IN LANSING, MI, USA!",
+    "application_url": "https://www.roseint.com/Jobs/Business-Analyst-MI-Lansing-Rose-International-Job-510457.html"
+  },
   "254a8ca5e776f701d383": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Rose International",
     "job_title": "NEW JOB OPENING SENIOR BUSINESS ANALYST QUALITY ASSURANCE ANALYST SOFTWARE TESTING & REQUIREMENTS ANALYSIS IN COLUMBIA, SC, USA!",
     "application_url": "https://www.roseint.com/Jobs/Business-Analyst-SC-Columbia-Rose-International-Job-510414.html"
   },
   "4932aeaf71abc068f5c9": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Rose International",
     "job_title": "NEW JOB OPENING SENIOR AZURE DATA ENGINEER / ANALYTICS SPECIALIST IN RALEIGH, NC, USA!",
     "application_url": "https://www.roseint.com/Jobs/Data-Scientist-NC-Raleigh-Rose-International-Job-510411.html"
   },
-  "2a3f82532a44852c5e43": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Rose International",
-    "job_title": "NEW JOB OPENING SENIOR CYBERSECURITY GRC & COMPLIANCE ANALYST NIST, ATO & SYSTEM SECURITY PLANS IN LANSING, MI, USA!",
-    "application_url": "https://www.roseint.com/Jobs/IT-Security-Analyst-MI-Lansing-Rose-International-Job-510406.html"
-  },
   "f0866fd74ea1211a1c43": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Rose International",
     "job_title": "Inventory Control Analyst",
     "application_url": "https://www.roseint.com/Jobs/Inventory-Analyst-OH-Fairfield-Rose-International-Job-510390.html"
   },
   "84c0c7ad8edddc398ee4": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Rose International",
     "job_title": "Supply Chain Inventory Analyst",
     "application_url": "https://www.roseint.com/Jobs/Analyst-OH-Fairfield-Rose-International-Job-510388.html"
   },
   "62afea26c744b059a2c0": {
     "first_seen": "2026-11-06T01:57:37+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Rose International",
     "job_title": "Workday HCM Business Analyst",
     "application_url": "https://www.roseint.com/Jobs/Business-Analyst-MO-Saint-Louis-Rose-International-Job-510384.html"
   },
   "f4d28bfbcfa78709e6cb": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Rose International",
     "job_title": "Business Analyst",
     "application_url": "https://www.roseint.com/Jobs/Business-Analyst-MO-Saint-Louis-Rose-International-Job-510383.html"
   },
   "7f04cc4ff51ec1bc0a79": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Rose International",
     "job_title": "NEW JOB OPENING APPLICATION SYSTEMS ANALYST (C#, .NET, MICROSOFT SQL SERVER & AGILE) IN EDMONTON, AB, CANADA!",
     "application_url": "https://www.roseint.com/Jobs/Application-Support-Analyst-AB-Edmonton-Rose-International-Job-510375.html"
   },
-  "a8a5664417e299e65c34": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Rose International",
-    "job_title": "NEW JOB OPENING SUPPLY CHAIN ANALYST IN Huntington, IN, USA!",
-    "application_url": "https://www.roseint.com/Jobs/Supply-Chain-Analyst-IN-Huntington-Rose-International-Job-510371.html"
-  },
-  "3f5ae1a49e37d4e4ddda": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Rose International",
-    "job_title": "NEW JOB OPENING TREASURY CONTRACT & BILLING QUALITY ASSURANCE ANALYST IN Remote, USA!",
-    "application_url": "https://www.roseint.com/Jobs/Treasury-Analyst-Remote-Rose-International-Job-510364.html"
-  },
-  "a2471bca53242ca60629": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Rose International",
-    "job_title": "NEW JOB OPENING LEGAL ANALYST (REGULATORY, COMPLIANCE & CORPORATE GOVERNANCE) IN Houston, TX, USA!",
-    "application_url": "https://www.roseint.com/Jobs/Legal-Research-Analyst-TX-Houston-Rose-International-Job-510359.html"
-  },
-  "7911e475c0c0725af2ef": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Rose International",
-    "job_title": "NEW JOB OPENING LEGAL ANALYST (INVESTIGATION & CASE MANAGEMENT) IN Houston, TX, USA!",
-    "application_url": "https://www.roseint.com/Jobs/Legal-Research-Analyst-TX-Houston-Rose-International-Job-510357.html"
-  },
-  "b5717030449787122af7": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Rose International",
-    "job_title": "NEW JOB OPENING SENIOR DATA ENGINEER - SQL, SPARK & DATA PIPELINE ENGINEERING IN MENLO PARK, CA, USA!",
-    "application_url": "https://www.roseint.com/Jobs/Data-Engineer-CA-Menlo-Park-Rose-International-Job-510399.html"
-  },
   "52176647527c6698e6d4": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "CompuGain",
     "job_title": "Sr. Data Analyst (Brokerage/Finance) - SQL/Python",
     "application_url": "https://jobs.smartrecruiters.com/Compugain1/743999723884801-sr-data-analyst-brokerage-finance-sql-python?oga=true"
   },
   "406d96610632ccfd5711": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "CompuGain",
     "job_title": "Sr. Data Engineer",
     "application_url": "https://jobs.smartrecruiters.com/Compugain1/743999722586402-sr-data-engineer?oga=true"
   },
+  "6f59ca746768b326230a": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Cognizant",
+    "job_title": "SR Snowflake Developer- Onsite",
+    "application_url": "https://careers.cognizant.com/us-en/jobs/00071047981/sr-snowflake-developer-onsite"
+  },
+  "91c2ddd90143b0ac16ce": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Cognizant",
+    "job_title": "OT Security Analyst – ICS Security & Network Segmentation",
+    "application_url": "https://careers.cognizant.com/us-en/jobs/00071167071/ot-security-analyst-ics-security-network-segmentation"
+  },
   "712e3cf849669eebaeb3": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Analyst",
     "application_url": "https://careers.wipro.com/job/Analyst/19657-en_US"
   },
   "2309aeb0bc27a46040b3": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Analyst",
     "application_url": "https://careers.wipro.com/job/Analyst/19047-en_US"
   },
   "2864063fe92279d4c7e0": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Analyst",
     "application_url": "https://careers.wipro.com/job/Analyst/195409-en_US"
   },
   "891e384b5304d97d4cca": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Senior Analyst",
     "application_url": "https://careers.wipro.com/job/Senior-Analyst/16386-en_US"
   },
   "bb5a134aabb09236d773": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Analyst",
     "application_url": "https://careers.wipro.com/job/Analyst/23385-en_US"
   },
   "aad29a982664ba46087a": {
     "first_seen": "2026-10-26T22:05:43+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Business Analyst",
     "application_url": "https://careers.wipro.com/job/Business-Analyst/169801-en_US"
   },
   "39bd94d407e60c75b549": {
     "first_seen": "2026-07-30T19:17:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Senior Analyst",
     "application_url": "https://careers.wipro.com/job/Senior-Analyst/14307-en_US"
   },
   "1414642f924d585860d2": {
     "first_seen": "2026-11-02T16:14:25+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "BUSINESS ANALYST",
     "application_url": "https://careers.wipro.com/job/BUSINESS-ANALYST/214627-en_US"
   },
-  "b95f06dd9f10960e3618": {
-    "first_seen": "2026-10-22T19:18:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Wipro",
-    "job_title": "Analyst",
-    "application_url": "https://careers.wipro.com/job/Analyst/141558-en_US"
-  },
   "97dfd4270978d9297118": {
     "first_seen": "2026-08-03T17:08:04+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Analyst",
     "application_url": "https://careers.wipro.com/job/Analyst/162758-en_US"
   },
+  "b95f06dd9f10960e3618": {
+    "first_seen": "2026-10-22T19:18:06+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Wipro",
+    "job_title": "Analyst",
+    "application_url": "https://careers.wipro.com/job/Analyst/141558-en_US"
+  },
   "bc5455ce80ae47ebe6f0": {
     "first_seen": "2026-10-29T20:04:03+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Data & Data Governance SME",
     "application_url": "https://careers.wipro.com/job/Data-&-Data-Governance-SME/211193-en_US"
   },
   "4e9ef713e7b1d2e12465": {
     "first_seen": "2026-10-28T17:37:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Looking for a Data Engineer to be based in Horsham:",
     "application_url": "https://careers.wipro.com/job/Data-Engineer/211119-en_US"
   },
   "044328e1d8dd199a17bc": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Data Engineer",
     "application_url": "https://careers.wipro.com/job/Data-Engineer/206851-en_US"
   },
   "1f01b296525d9a236afc": {
     "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Senior Data Engineer / Data Analyst",
     "application_url": "https://careers.wipro.com/job/Senior-Data-Engineer-Data-Analyst/216729-en_US"
   },
   "280de90787812a9f6d98": {
     "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Job Description: Data Operations, Investment Data Management",
     "application_url": "https://careers.wipro.com/job/Data-Operations%2C-Investment-Data-Management/192721-en_US"
   },
   "9446bc69a814d1c702f3": {
     "first_seen": "2026-10-23T18:50:29+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Data Engineer",
     "application_url": "https://careers.wipro.com/job/Data-Engineer/205391-en_US"
   },
   "80bdf2ec998b193f0a26": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Data Analyst",
     "application_url": "https://careers.wipro.com/job/Data-Analyst/200194-en_US"
   },
   "d47c28254b000471923e": {
     "first_seen": "2026-10-23T18:50:29+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Data Engineer",
     "application_url": "https://careers.wipro.com/job/Data-Engineer/192310-en_US"
   },
   "7ab13f6b1a7dd619cce0": {
     "first_seen": "2026-10-27T14:56:11+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "Snowflake Data Engineer",
     "application_url": "https://careers.wipro.com/job/Snowflake-Data-Engineer/214241-en_US"
   },
   "2d2f98112245d75d3712": {
     "first_seen": "2026-10-27T21:43:42+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "AI Engineer",
     "application_url": "https://careers.wipro.com/job/AI-Engineer/212615-en_US"
   },
   "42759b5b3901e5527607": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
     "job_title": "AI Engineer",
     "application_url": "https://careers.wipro.com/job/AI-Engineer/214502-en_US"
   },
-  "e2aac35742af74fb83fe": {
-    "first_seen": "2026-11-02T16:14:25+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "3bb6ac4579518108e556": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Wipro",
-    "job_title": "SAP AI Architect",
-    "application_url": "https://careers.wipro.com/job/SAP-AI-Architect/203121-en_US"
+    "job_title": "AI ENGINEER L1",
+    "application_url": "https://careers.wipro.com/job/AI-ENGINEER-L1/217181-en_US"
   },
   "74f6f1367991c4ba6faf": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "BI Business Analyst",
     "application_url": "https://www.nescoresource.com/job-details/bi-business-analyst-in-information-technology-jobs-1786658"
   },
   "e794c5405eb7fd48a649": {
     "first_seen": "2026-11-05T02:02:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "Data Conversion Analyst - Insurance",
     "application_url": "https://www.nescoresource.com/job-details/data-conversion-analyst-insurance-in-information-technology-jobs-1786631"
   },
   "6719fd9875784c496263": {
     "first_seen": "2026-10-31T02:48:08+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "QC Analyst- 2nd Shift",
     "application_url": "https://www.nescoresource.com/job-details/qc-analyst-2nd-shift-in-engineering-jobs-1582857"
   },
   "8f9e2a5f614d42351c10": {
     "first_seen": "2026-10-29T02:52:11+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "Data Analyst",
     "application_url": "https://www.nescoresource.com/job-details/data-analyst-in-professional-jobs-1774522"
   },
   "5832fd69649af9f77f9e": {
     "first_seen": "2026-10-29T02:52:11+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "Senior Financial Analyst - E-Commerce /Wholesale/Retail",
     "application_url": "https://www.nescoresource.com/job-details/senior-financial-analyst-e-commerce-wholesaleretail-in-accounting-finance-jobs-1678709"
   },
   "ba54c8100cc57afbf738": {
     "first_seen": "2026-10-29T02:52:11+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "QC Analyst",
     "application_url": "https://www.nescoresource.com/job-details/qc-analyst-in-engineering-jobs-1766069"
   },
   "eb1870a7cb8494bd9b4f": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "HR Compliance Analyst – Benefits & Retirement",
     "application_url": "https://www.nescoresource.com/job-details/hr-compliance-analyst-%E2%80%93-benefits-retirement-in-professional-jobs-1764654"
   },
   "477fd8b5006c2e83cd08": {
     "first_seen": "2026-10-29T02:52:11+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "Senior Financial Analyst - Distribution",
     "application_url": "https://www.nescoresource.com/job-details/senior-financial-analyst-distribution-in-accounting-finance-jobs-1673202"
   },
   "2805749e4bbdc92f8f4e": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "Pricing Analyst(Aerospace/Defense)",
     "application_url": "https://www.nescoresource.com/job-details/pricing-analystaerospacedefense-in-professional-jobs-1778041"
   },
   "2a0f74e3b1cb7960f8df": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Nesco Resource",
     "job_title": "Cost/Price Analyst(Aerospace/Defense)",
     "application_url": "https://www.nescoresource.com/job-details/costprice-analystaerospacedefense-in-professional-jobs-1776309"
   },
   "4f3de9bf942013deebd3": {
     "first_seen": "2026-09-21T21:30:32+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Data Analyst / Business Systems Analyst - Westlake, TX | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1153276"
   },
-  "c57000e088e0d5947c9b": {
-    "first_seen": "2026-10-27T02:31:44+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Business Analyst - Oklahoma City, OK | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1159386"
-  },
   "ad54c45ff34880fe8904": {
     "first_seen": "2026-10-29T20:04:03+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Business Analyst - Boston, MA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1160017"
   },
+  "c57000e088e0d5947c9b": {
+    "first_seen": "2026-10-27T02:31:44+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Business Analyst - Oklahoma City, OK | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1159386"
+  },
+  "ce53ed4f7e18a63c41f4": {
+    "first_seen": "2026-09-23T14:05:04+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Helpdesk Analyst - Malvern, PA | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1151341"
+  },
+  "b4f1d6b499090da09acc": {
+    "first_seen": "2026-09-15T18:37:24+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Data Analyst - REMOTE | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1152271"
+  },
+  "4543721d83df6c7d7a3f": {
+    "first_seen": "2026-11-05T20:32:50+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Inventory Analyst - Fairfield, OH | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1161294"
+  },
+  "98e96b32895d49362b74": {
+    "first_seen": "2026-10-30T17:26:22+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Vulnerability Analyst - REMOTE | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1159994"
+  },
+  "fede6ea1e61fd0ee88d0": {
+    "first_seen": "2026-10-21T19:05:50+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Data Profiling Analyst - REMOTE | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1157719"
+  },
   "98e906dacebe4064f706": {
     "first_seen": "2026-10-06T22:02:56+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Intelligence Analyst - REMOTE | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1156125"
   },
   "faeb416dd53bb797fa70": {
     "first_seen": "2026-11-03T19:56:13+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Procurement Analyst - Falls Church, VA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1154492"
   },
-  "b4f1d6b499090da09acc": {
-    "first_seen": "2026-09-15T18:37:24+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Data Analyst - REMOTE | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1152271"
-  },
-  "ce53ed4f7e18a63c41f4": {
-    "first_seen": "2026-09-23T14:05:04+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Helpdesk Analyst - Malvern, PA | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1151341"
-  },
-  "4543721d83df6c7d7a3f": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Inventory Analyst - Fairfield, OH | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1161294"
-  },
   "bf3fb75c165a5c9f4c12": {
     "first_seen": "2026-10-26T22:05:43+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Business Systems Analyst - Malvern, PA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1158513"
   },
-  "98e96b32895d49362b74": {
-    "first_seen": "2026-10-30T17:26:22+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Vulnerability Analyst - REMOTE | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1159994"
-  },
-  "4dd97acc24963fd8d2f5": {
-    "first_seen": "2026-09-23T23:20:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Data Management Analyst - Irving, TX | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1152840"
-  },
-  "5eb9177e1af17b7bf9e3": {
-    "first_seen": "2026-10-28T08:59:16+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Senior Business Analyst - Boston, MA | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1158077"
-  },
-  "287dd0830cdcc5dfa3ae": {
-    "first_seen": "2026-10-31T11:22:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Litigation Technology Analyst - Cherry Hill, NJ | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1148204"
-  },
-  "24dec5f36beb090216c0": {
-    "first_seen": "2026-11-02T16:14:25+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Mfg Operations Analyst - Berkeley, MO | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1088147"
-  },
-  "fede6ea1e61fd0ee88d0": {
-    "first_seen": "2026-10-21T19:05:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Data Profiling Analyst - REMOTE | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1157719"
-  },
-  "6b9139ed058dfb2ddfd8": {
-    "first_seen": "2026-11-03T11:16:26+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Engine Performance Analyst - Cedar Falls, IA | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1159976"
-  },
   "702ba6c9be606809ccb2": {
     "first_seen": "2026-11-04T20:10:45+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Operations Analyst - Malvern, PA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1108434"
   },
+  "4dd97acc24963fd8d2f5": {
+    "first_seen": "2026-09-23T23:20:48+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Data Management Analyst - Irving, TX | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1152840"
+  },
+  "33899375300ad47738a2": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Performance Test Analyst - Harrisburg, PA | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1157527"
+  },
+  "a1a20ebd60e4b3f275ed": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Data Analyst - Quincy, MA | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1154548"
+  },
+  "5eb9177e1af17b7bf9e3": {
+    "first_seen": "2026-10-28T08:59:16+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Senior Business Analyst - Boston, MA | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1158077"
+  },
+  "867e313f74ad45486e73": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Tapestry Configuration Analyst - REMOTE | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1099718"
+  },
   "06905f6702f3147b6a37": {
     "first_seen": "2026-10-21T23:44:30+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Data Engineer - Richardson, TX | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1158424"
   },
   "1ff89c02bc86582cc3e0": {
     "first_seen": "2026-10-19T16:00:39+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Data Engineer - Dallas, TX | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1157995"
   },
   "08235b6ed1d3bb3d906f": {
     "first_seen": "2026-10-13T04:01:58+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Data Engineer - Scottsdale, AZ | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1157083"
   },
   "59e6115cbc081d162584": {
     "first_seen": "2026-11-02T16:14:25+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Senior Data Engineer - Boston, MA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1160038"
   },
   "c68d23afbc67162c6ccc": {
     "first_seen": "2026-09-30T21:56:04+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Scrum Master - Data Platform & Data Ingestion - Phoenix, AZ | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1155146"
   },
-  "862d2a409404b3b1db04": {
-    "first_seen": "2026-10-29T20:04:03+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Data Analyst Sr. - Seattle, WA | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1160026"
-  },
   "164eda00996fa1121e64": {
     "first_seen": "2026-10-23T18:50:29+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Sr. Data Analyst - Seattle, WA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1158543"
   },
+  "862d2a409404b3b1db04": {
+    "first_seen": "2026-10-29T20:04:03+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Data Analyst Sr. - Seattle, WA | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1160026"
+  },
   "af60edebe3f3054f9f36": {
     "first_seen": "2026-10-21T14:13:20+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Business Data Analyst - REMOTE | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1158372"
   },
-  "44578364a3cdcdd6efce": {
-    "first_seen": "2026-11-03T01:25:48+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "SAP Data Quality Analyst - REMOTE | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1159846"
-  },
   "9e672045d3da1c9cd4fa": {
     "first_seen": "2026-11-04T01:46:39+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Data Architect w/ Snowflake experience - REMOTE | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1154009"
   },
-  "c5596ae75e6cc40caf6b": {
-    "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "The Judge Group",
-    "job_title": "Data Engineer & Insights Analyst - Harrisburg, PA | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1161275"
-  },
   "3986c349f1679628d49b": {
     "first_seen": "2026-10-10T08:52:30+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Sr Business Data Analyst (Manufacturing Domain) - Forks, PA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1152568"
   },
   "c71947cbb7c82f6e5c8f": {
     "first_seen": "2026-11-05T20:32:50+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Data Scientist IV - Bridgewater, NJ | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1073820"
   },
-  "500619a71ed4996ff9fc": {
-    "first_seen": "2026-10-23T07:56:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "44578364a3cdcdd6efce": {
+    "first_seen": "2026-11-03T01:25:48+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
-    "job_title": "AI/ML Engineer - REMOTE | Judge Group",
-    "application_url": "https://www.judge.com/jobs/details/1155561"
+    "job_title": "SAP Data Quality Analyst - REMOTE | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1159846"
+  },
+  "e9891a379cd68dd01edf": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Lead Data Engineer - Tustin, CA | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1147926"
   },
   "2cc2da9382ae114b4977": {
     "first_seen": "2026-10-23T07:56:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Sr Applied AI Engineer - Dallas, TX | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1152660"
   },
   "7d7703068cb4d997eb79": {
     "first_seen": "2026-10-23T07:56:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Java/AI Developer - Charlotte, NC | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1155102"
   },
   "149cf6b5d7418a85b10e": {
     "first_seen": "2026-10-23T07:56:06+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "Senior .Net AI Developer - Austin, TX | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1151815"
   },
   "1fa884b9d3fd93469c46": {
     "first_seen": "2026-11-03T11:16:26+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "The Judge Group",
     "job_title": "PTC - Artificial Intelligence (AI) Consultant - Harrisburg, PA | Judge Group",
     "application_url": "https://www.judge.com/jobs/details/1157914"
   },
-  "60e64d6a7795b0dcaf2d": {
-    "first_seen": "2026-11-05T11:16:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
-    "company": "Actalent",
-    "job_title": "Data Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006383006/Data-Analyst"
+  "b18cdff9142c9775c58b": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "The Judge Group",
+    "job_title": "Lead Conversational AI Engineer - REMOTE | Judge Group",
+    "application_url": "https://www.judge.com/jobs/details/1155963"
   },
-  "ecfb4c2fb4e275daf2d4": {
-    "first_seen": "2026-11-05T11:16:55+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "45b53a366c97e5d87e16": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "Data Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006381451/Data-Analyst"
+    "job_title": "Business Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006373579/Business-Analyst"
   },
-  "79e177c1ea8ef63e5e3f": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "f6e5f702d892bb097e78": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "QC Lab Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006395828/QC-Lab-Analyst"
+    "job_title": "Business Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006400427/Business-Analyst"
   },
-  "2bb0d66e462a56093e20": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "2262c63d9e5b2eade278": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "GIS Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-005238782/GIS-Analyst"
+    "job_title": "Stress Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006371520/Stress-Analyst"
   },
-  "b869245cbd922c32fa9f": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "a4607f6dea20eaff5e0b": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "Lab Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006395116/Lab-Analyst"
+    "job_title": "Senior Structural Analyst (NASTRAN, PATRAN)",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006374153/Senior-Structural-Analyst-NASTRAN-PATRAN"
   },
-  "5925af0565328735772b": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "ff52cb53455478e43085": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "Lab Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006393032/Lab-Analyst"
+    "job_title": "Business Analyst/QA Specialist",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006389794/Business-Analyst-QA-Specialist"
   },
-  "d0a16acbdbd705af7ca1": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "af753bfbacd7ae6995be": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "EDiscovery Data Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006378854/EDiscovery-Data-Analyst"
+    "job_title": "Industrial Engineering Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006388839/Industrial-Engineering-Analyst"
   },
-  "275aaf30e7451d625553": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "f833f61d6df35a0d0534": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "Compliance Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006399220/Compliance-Analyst"
+    "job_title": "Operations Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006374930/Operations-Analyst"
   },
-  "0b40825c8a89fc45afbe": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "775fe563b17fbf346980": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "Quality Analyst Float Role",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006377729/Quality-Analyst-Float-Role"
+    "job_title": "Operations Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006390477/Operations-Analyst"
   },
-  "a8abb4b8865a6e77cac4": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "6ac5a648bcfbb5f8d817": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "Pathology Lab Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006389271/Pathology-Lab-Analyst"
+    "job_title": "Lab Research Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006376862/Lab-Research-Analyst"
   },
-  "83b2016d258dbf49bee9": {
-    "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+  "844a665de1da1513bf39": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
-    "job_title": "Change Control Analyst",
-    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006387900/Change-Control-Analyst"
+    "job_title": "Validation Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006375869/Validation-Analyst"
+  },
+  "47b89eb5e914b28b6335": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Actalent",
+    "job_title": "Clinical Research Budget And Financial Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006391755/Clinical-Research-Budget-And-Financial-Analyst"
+  },
+  "207a554661b9c9bad445": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Actalent",
+    "job_title": "Procurement Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006391190/Procurement-Analyst"
   },
   "e226c93a7afc21605711": {
     "first_seen": "2026-11-06T11:15:28+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Actalent",
     "job_title": "Laboratory Quality Analyst",
     "application_url": "https://careers.actalentservices.com/us/en/job/JP-006379515/Laboratory-Quality-Analyst"
   },
+  "83b2016d258dbf49bee9": {
+    "first_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Actalent",
+    "job_title": "Change Control Analyst",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-006387900/Change-Control-Analyst"
+  },
+  "2c3bb40f9ec572ed5611": {
+    "first_seen": "2026-11-06T19:49:05+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
+    "company": "Actalent",
+    "job_title": "Data Engineer",
+    "application_url": "https://careers.actalentservices.com/us/en/job/JP-005234473/Data-Engineer"
+  },
   "9bf4a4e2dae5cc85a155": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Big Data Engineer",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/743999658352528-big-data-engineer?oga=true"
   },
   "c46f1d2e683e01fd3d10": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Oracle eBS Techno Functional Analyst",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/103403807-oracle-ebs-techno-functional-analyst?oga=true"
   },
   "05b173f523c68702bbf4": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Report developer/analyst/consultant",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/93290901-report-developer-analyst-consultant?oga=true"
   },
   "21e4d98805199fb268c1": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Data Analyst R Programming",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/91738120-data-analyst-r-programming?oga=true"
   },
   "29d3945c6149cb7d27ce": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "IVR Business Analyst",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/91706803-ivr-business-analyst?oga=true"
   },
   "eb910a182e0aacee19cf": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Database Administrator (NoSQL / Oracle)",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/91427603-database-administrator-nosql-oracle-?oga=true"
   },
   "5e42a504d189fe30c4fa": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Data Architect With Azure",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/90995931-data-architect-with-azure?oga=true"
   },
   "e765218d0ec589c265ea": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "System Analyst (BI/DWH)",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/90758817-system-analyst-bi-dwh-?oga=true"
   },
   "0d140e426844c92e6ab8": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Workforce Management Analyst",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/90104456-workforce-management-analyst?oga=true"
   },
   "48ab717cae2854563a90": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Kronos Analyst",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/90104402-kronos-analyst?oga=true"
   },
   "2acf8accb8cab7cf4980": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Data Modeler",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/90036367-data-modeler?oga=true"
   },
   "42d3008393a735c10ebf": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Data Modeler (Physical Modeling & Oracle)",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/89389114-data-modeler-physical-modeling-oracle-?oga=true"
   },
   "dd7b5f57e42a3e48d371": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Data Warehouse Architect",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/88757017-data-warehouse-architect?oga=true"
   },
   "067704edcb00e117f37a": {
     "first_seen": "2026-07-30T00:33:09+00:00",
-    "last_seen": "2026-11-06T11:15:28+00:00",
+    "last_seen": "2026-11-06T19:49:05+00:00",
     "company": "Agile Enterprise Solutions",
     "job_title": "Data Architect ( Hadoop / Spark )",
     "application_url": "https://jobs.smartrecruiters.com/AgileEnterpriseSolutions/88518504-data-architect-hadoop-spark-?oga=true"
